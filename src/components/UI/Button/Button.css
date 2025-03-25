@@ -1,0 +1,7 @@
+.buttonCar {
+    background-color: #fff;
+    border-bottom: 3px solid #00AC6D;
+    padding: 20px 30px;
+    cursor: pointer;
+    font-weight: 600;
+}

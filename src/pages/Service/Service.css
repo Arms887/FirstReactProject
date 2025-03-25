@@ -1,0 +1,18 @@
+.serviceCover {
+    background-image: url("https://images.unsplash.com/photo-1629281066736-ff3a1e6b36d8?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    padding: 150px 0 198px 0; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+.sectionServiceOneContent{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 50px;
+}
+.sectionServiceOne{
+    padding: 130px 0;
+}
