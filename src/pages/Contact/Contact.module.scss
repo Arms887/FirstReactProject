@@ -1,0 +1,35 @@
+ul li{
+    width: 100%;
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+    cursor: pointer;
+}
+ul{
+    width: 100%;
+}
+
+.MainToDo{
+    width: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    font-size: 45px !important;
+    color: black;
+}
+ul li p{
+    width: 63%;
+    text-wrap: wrap;
+    overflow-y: scroll;
+}
+.ToDoDiv{
+    width: 100%;
+}
+.selected {
+    text-decoration: line-through;
+}
